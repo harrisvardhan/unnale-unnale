@@ -1,0 +1,149 @@
+.disclaimer{
+  color: red;
+}
+
+.effort{
+  color: purple;
+}
+
+ul {
+  color: green;
+}
+
+.deepika-manhole{
+  display: flex;
+}
+
+.deepika-manhole-1{
+  width: 600px;
+}
+
+.deepika-manhole-2{
+  position: relative;
+  left: 150px;
+}
+
+.timeout-cafe {
+  display: flex;
+}
+
+.meeting-vaithi-1 {
+  width: 600px;
+}
+
+.meeting-vaithi-2 {
+  position: relative;
+  left: 150px;
+}
+
+.drag-away {
+  display: flex;
+}
+
+.drag-away-1{
+  width: 600px;
+}
+
+.drag-away-2{
+  position: relative;
+  left: 150px;
+}
+
+.rugby-match{
+  display: flex;
+}
+
+.rugby-match-1{
+ width: 600px;
+}
+
+.rugby-match-2{
+ position: relative;
+ left: 150px;
+}
+
+.blossom{
+  display: flex;
+}
+
+.blossom-1{
+  width:600px;
+}
+
+.blossom-2{
+  position: relative;
+  left: 150px;
+}
+
+.bridge-talk {
+  display: flex;
+}
+
+.bridge-talk-1 {
+  width: 600px;
+}
+
+.bridge-talk-2 {
+  position: relative;
+  left: 150px;
+}
+
+.cute {
+  display: flex;
+
+}
+
+.cute-1{
+  width: 600px;
+}
+
+.cute-2{
+  position: relative;
+  left: 150px;
+}
+
+.indirect-propose{
+ display: flex;
+}
+
+.indirect-propose-1{
+  width: 600px;
+
+}
+.indirect-propose-2{
+  position: relative;
+  left: 150px;
+}
+
+.pudikum {
+  display: flex;
+}
+
+.pudikum-1{
+  width: 600px;
+}
+
+.pudikum-2{
+  position: relative;
+  left: 150px;
+}
+
+.hold-hands {
+  display: flex;
+}
+
+.hold-hands-1{
+  width: 600px;
+}
+
+.hold-hands-2{
+  position: relative;
+  left: 150px;
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+  font-weight: bold;
+
+}
